@@ -23,3 +23,5 @@ O projeto **Amigo Secreto** é uma aplicação simples e interativa para realiza
 2. **Sortear amigo secreto**:
    - Após adicionar pelo menos um nome, clique no botão "Sortear amigo".
    - O nome do amigo secreto será sorteado aleatoriamente e exibido na tela.
+
+![Projeto Rodando](assets/amigo-secreto-img.jpg)
